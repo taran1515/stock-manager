@@ -1,1 +1,1 @@
-"# stock_manager" 
+The objective is to maintain the detail of Purchase,Stock and Sales of watches and reduce the manual work. Only the administrator can retrieve all information relating to Sales and Stock. A graph showing the trends in Stock and Sale is also shown.
