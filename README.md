@@ -5,10 +5,6 @@ Simple and modern inventory and sales management system written in Django design
 Use Python 3 (recommended v3.6)
 
 Git clone then use a virtual environment.
-Install requirements.
-```sh
-pip install -r requirements.txt
-```
 
 Make migrations.
 ```sh
@@ -26,5 +22,4 @@ Start server.
 python manage.py runserver
 ```
 
-## Documentation
-  - localhost:8000/docs
+
